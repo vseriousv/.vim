@@ -18,6 +18,9 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 ```
 
+### You need install NodeJS
+[instuction](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
+
 ### open vim and enter the following command to install all plugings
 ```
 :PlugInstall
